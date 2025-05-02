@@ -1,0 +1,9 @@
+torch
+transformers
+sentence-transformers
+pandas
+fastapi
+uvicorn
+streamlit
+pyinstaller
+bcrypt

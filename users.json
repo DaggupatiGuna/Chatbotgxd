@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "$2b$12$tOkB.nAE5mcbVfBGyigmbOm/QDSmhMxK7VtGnx4wScKpOtuowzEfu",
+        "role": "admin"
+    },
+    "operator": {
+        "password": "operator_password_hash",
+        "role": "operator"
+    }
+}
